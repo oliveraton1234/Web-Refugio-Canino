@@ -1,0 +1,42 @@
+
+.Reqp{
+    width: 100%;
+}
+
+.Titulo1{
+    text-align: center;
+    margin: 0% 55% 0% 45%;
+    text-decoration: none;
+    color: white;
+    font-family: Lusina;
+    font-size: 30px;
+}
+
+.Contenedor1{
+    background-color: #FF6300;
+}
+
+.Titulo2{
+    text-align: center;
+    margin: 0% 55% 0% 45%;
+    text-decoration: none;
+    color: white;
+    font-family: Lusina;
+    font-size: 30px;
+}
+
+.Contenedor2{
+    background-color: #FF6300;
+}
+
+.texto1{
+    margin-left: 35%;    
+}
+
+.check{
+    width: 3%;
+}
+
+.compromiso{
+    width: 4%;
+}

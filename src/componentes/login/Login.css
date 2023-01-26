@@ -1,0 +1,48 @@
+
+.form1{
+  margin: 3% 0% 30% 30%;
+  width: 40%;
+  border-color: #FF6300;
+  border: #FF6300;
+  border-block-color: #FF6300;
+}
+.formm{
+  margin: 2%;
+}
+
+.Ingresa{
+  margin: 2% 0% 0% 0%;
+}
+
+.logoImg{
+  margin: 2% 25% 7% 25%;
+  width: 45%;
+}
+
+.gap-2{
+  margin-top: 6%;
+}
+.BIngresa{
+  margin: 0% 8% 0% 8%;
+  background-color: #FF6300;
+  height: .9cm;
+  border-radius: 5px;
+}
+.BCancela{
+  margin: 1% 8% 1% 8%;
+}
+
+.correo{
+  border-radius: 5px;
+  border: 1px solid #ffc107;
+  outline: none;
+  size: 50;
+  height: .7cm;
+}
+
+.contra{
+  border-radius: 5px;
+  border: 1px solid #ffc107;
+  outline: none;
+  height: .7cm;
+}

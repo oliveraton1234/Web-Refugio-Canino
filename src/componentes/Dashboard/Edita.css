@@ -1,0 +1,16 @@
+
+.up{
+    width: 40%;
+    margin: 3% 30% 0% 30%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+
+.form{
+    margin: 4%;
+}
+
+.titulo{
+    text-align: center;
+}

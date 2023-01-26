@@ -1,0 +1,49 @@
+.Contacto{
+    margin: 3cm;
+    background-color: white;
+    
+}
+.Contacto h2{
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.25em;
+    font-family: "Museo Slab 300","Lucida Grande","Lucida Sans Unicode","Trebuchet MS",sans-serif;
+}
+.Contacto img{
+    width: 40%;
+    margin-left: 7cm;
+}
+.Contacto h4{
+    font-size: 15px;
+    line-height: 1.25em;
+    font-family: "Museo Slab 300","Lucida Grande","Lucida Sans Unicode","Trebuchet MS",sans-serif;
+    margin-left: 10cm;
+}
+.Contacto p{
+    width: 60%;
+    margin: auto;
+    font-family: "Museo Slab 300","Lucida Grande","Lucida Sans Unicode","Trebuchet MS",sans-serif;
+    font-size: 1em;
+    font-size: 1rem;
+    line-height: 1.5em;
+    font-size: 17px;
+    margin-left: 11cm;
+}
+.imagenes{
+    float: left;
+    width: 200px;
+    margin: 2.5cm;
+    align-items: center;
+    background-color: white;
+}
+.imagenes img{
+    float: left;
+    width: 200px;
+    margin: .5cm;
+}
+.imagenes h3{
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.25em;
+    font-family: "Museo Slab 300","Lucida Grande","Lucida Sans Unicode","Trebuchet MS",sans-serif;
+}

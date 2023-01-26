@@ -1,0 +1,23 @@
+
+
+.titu{
+    text-align: center;
+    margin: 2%;
+}
+
+.titulo{
+    font-size: 40px;
+    font-family: "Supernett Bold","Museo Slab 700","Lucida Grande","Lucida Sans Unicode","Trebuchet MS",sans-serif;
+    text-transform: uppercase;
+}
+
+.cuerpo{
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.card1{
+    float: inline-start;
+    margin: 0% 0% 0% 10%;
+}

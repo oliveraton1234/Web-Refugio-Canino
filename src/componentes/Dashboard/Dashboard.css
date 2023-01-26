@@ -1,0 +1,27 @@
+
+.imagenP{
+    width: 100%;
+    margin: 0% 0% 2% 0%;
+}
+
+.tablee{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.edit{
+    background-color: blue;
+}
+
+.crear{
+   float: right;
+}
+
+.modal {
+    height: auto;
+    top: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+}
